@@ -14,7 +14,7 @@
 
 ### Demo Screeshots
 
-![Gamics Desktop Demo]("Desktop Demo")
+![DiscoSea Desktop]("Desktop Demo")
 
 ### Prerequisites
 
